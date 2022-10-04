@@ -1,6 +1,6 @@
-<h1 align="center"> Oii, eu sou a Stephanie! :) </h1>
+<h1 align="center"> Oi, eu sou a Stephanie! :) </h1>
 
-- 🤎 Sou estudante, cursando 2º semestre do curso superior em Análise e Desenvlvimento de Sistemas;
+- 🤎 Sou estudante, cursando 2º semestre do curso superior em Análise e Desenvlvimento de Sistemas no Instituto Federal de São Paulo -IFSP;
 - 🌱 Particularmente interessada pelo Desenvolvimento Front-end, estou atualmente estudando HTML e CSS.
  
 <div align="center">
