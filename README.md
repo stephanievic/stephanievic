@@ -1,7 +1,7 @@
 
 
 ##
-[![Typing SVG] (https://readme-typing-svg.herokuapp.com/?color=b53c76&size35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Stephanie!+:);Seja+bem+vindo!+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b53c76&size35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Stephanie!;Seja+bem+vindo!+☕)](https://git.io/typing-svg)
 ##
 
 - 🤎 Estudante, cursando o 2º semestre do curso superior em Análise e Desenvolvimento de Sistemas no IFSP;
