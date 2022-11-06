@@ -1,8 +1,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6699e&size50&center=true&vCenter=true&width=970&lines=Oi,+eu+sou+a+Stephanie!;Seja+bem+vindo!+☕)](https://git.io/typing-svg)
 
-- 👩🏽‍💻 Tenho 18 anos;
-- 🤎 Cursando o 2º semestre do curso superior em Análise e Desenvolvimento de Sistemas no IFSP;
+- 🤎 Tenho 18 anos;
+- 👩🏽‍💻 Cursando o 2º semestre do curso superior em Análise e Desenvolvimento de Sistemas no IFSP;
 - 🌱 Particularmente interessada pelo Desenvolvimento Front-end, estou atualmente estudando HTML, CSS e JavaScript.
 
 <div align ="center">
