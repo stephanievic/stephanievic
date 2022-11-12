@@ -3,7 +3,8 @@
 
 - 🤎 Tenho 18 anos;
 - 👩🏽‍💻 Cursando o 2º semestre do curso superior em Análise e Desenvolvimento de Sistemas no IFSP;
-- 🌱 Particularmente interessada pelo Desenvolvimento Front-end, estou atualmente estudando HTML, CSS e JavaScript.
+- ☕ Aprendendo POO com Java, na faculdade;
+- 🌱 Tenho interesse em seguir na área do desenvolvimento Front-end, e por isso estou estudando HTML, CSS e JavaScript.
 
 <div align ="center">
   <a href="http://github.com/stephanievic">
