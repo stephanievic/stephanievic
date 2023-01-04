@@ -1,11 +1,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF75AD&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Stephanie!;Seja+bem+vindo!+☕)](https://git.io/typing-svg)
 
-
-
-- 🤎 Tenho 18 anos
 - 👩🏻‍💻 Cursando o 2º semestre do curso superior em Análise e Desenvolvimento de Sistemas no IFSP;
-- ☕ Aprendendo POO com Java, na faculdade;
+- ☕ Aprendendo Java, na faculdade;
 - 🌱 Tenho interesse em seguir na área do desenvolvimento Front-end, e por isso estou estudando HTML, CSS e JavaScript.
 
 <div align ="center">
