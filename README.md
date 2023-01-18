@@ -5,15 +5,13 @@
 - ☕ Aprendendo Java, na faculdade;
 - 🌱 Tenho interesse em seguir na área do desenvolvimento Front-end, e por isso estou estudando HTML, CSS e JavaScript.
 
-<div align ="center">
+<div align ="center"> <br>
   <a href="http://github.com/stephanievic">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=stephanievic&theme=dracula&show_icons=true">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievic&layout=compact&theme=dracula">
-</div>
-  
- 
-    
-<div style="display: inline_block" align ="center">
+
+
+<div style="display: inline_block">
   <img align="center" alt="Stephanie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Stephanie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Stephanie-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
