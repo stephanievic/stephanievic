@@ -8,7 +8,7 @@
 <div align ="center">
   <a href="http://github.com/stephanievic">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=stephanievic&show_icons=true&theme=dracula&incllude_all_commits=true&count_private=true">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievic&layout=compact&langs_count=9&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
   
 <div style="display: inline_block">
