@@ -9,10 +9,10 @@
   <a href="http://github.com/stephanievic">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=stephanievic&theme=dracula&show_icons=true">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanievic&layout=compact&theme=dracula">
-
+</div>
     
-<div style="display: inline_block">
-   <img align="center" alt="Stephanie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<div style="display: inline_block" align ="center">
+  <img align="center" alt="Stephanie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Stephanie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Stephanie-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Stephanie-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
