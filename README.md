@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 Cursando o 3º semestre do curso superior em Análise e Desenvolvimento de Sistemas no IFSP;
 - ☕ Aprendendo Java, na faculdade;
-- 🌱 Tenho interesse em seguir na área do desenvolvimento Front-end, e por isso estou estudando HTML, CSS e JavaScript.
+- 🌱 Tenho interesse em seguir na área do desenvolvimento Front-end, e por isso estou estudando HTML, CSS e JavaScript
 
 <div align ="center">
   <a href="http://github.com/stephanievic">
