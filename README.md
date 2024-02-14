@@ -1,7 +1,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF75AD&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Stephanie!;Seja+bem+vindo!+☕)](https://git.io/typing-svg)
 
-- 👩🏻‍💻 Cursando o 3º semestre do curso superior em Análise e Desenvolvimento de Sistemas no <a href="https://www.ifspcaraguatatuba.edu.br/">IFSP</a>;
+- 👩🏻‍💻 Cursando o 5º semestre do curso superior em Análise e Desenvolvimento de Sistemas no <a href="https://www.ifspcaraguatatuba.edu.br/">IFSP</a>;
 - ☕ Aprendendo Java, na faculdade;
 - 🌱 Tenho interesse em seguir na área do desenvolvimento Front-end, e por isso estou estudando HTML, CSS e JavaScript.
 
